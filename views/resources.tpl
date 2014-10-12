@@ -1,11 +1,11 @@
 % include('header_option.tpl')
 <div class="page-header">
-  <h1>Getting started <small>(Under Construction)</small></h1>
+  <h1>Getting started <small>(more to come soon)</small></h1>
   <hr>
   <h2>Connecting to an existing Linux machine <small>...via SSH<p><i><b>NOTE</b>: Unix/Linux will <i>not</i> show your password at all as you type it.</i></small></h2>
     <h3><font color="375a7f">Windows</font></h3>
       <h4>PuTTY</h4>
-        <font color="999999"><p>You can get PuTTY <a href="http://the.earth.li/~sgtatham/putty/latest/x86/putty.exe">here</a>. It's a small program you can move into a location there you'll remember it. When you open it, type USER@HOST then hit open!</p></font>
+        <font color="999999"><p>You can get PuTTY <a href="http://the.earth.li/~sgtatham/putty/latest/x86/putty.exe">here</a>. It's a small program, and you can move into a location where you'll remember it. When you open PuTTY, type USER@HOST in the Hostname field then hit open!</p></font>
       <h4>Cmder</h4>
         <font color="999999"><p>You can get cmder <a href="http://bliker.github.io/cmder/">here</a>. When you open it type:</p></font>
         <div class="well well-sm"><font face="consolas">ssh USER@HOSTNAME</font></div>
