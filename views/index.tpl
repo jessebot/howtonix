@@ -115,7 +115,7 @@
                 <h3>Intro To Linux and Web 2014</h3>
                 <h4>Class Six</h4>
                 <p>Slide deck available. Video to be posted...</p>
-                <a class="btn btn-primary" href="/classfive">View Content </a>
+                <a class="btn btn-primary" href="/classsix">View Content </a>
             </div>
         </div>
         <!-- /.row -->
