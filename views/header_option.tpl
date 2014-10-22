@@ -35,6 +35,7 @@
         </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
+            <li><a href="http://howtonix.info/resources">Resources</a></li>
             <li><a href="http://howtonix.info/about">About</a></li>
             <li><a href="http://howtonix.info/contact">Contact</a></li>
           </ul>
