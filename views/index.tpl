@@ -101,4 +101,24 @@
         </div>
         <!-- /.row -->
     <hr> 
+   <hr>
+
+        <!-- Content Five -->
+        <div class="row">
+
+            <div class="col-md-7">
+                <a href="/classsix">
+                    <img class="img-responsive" src="/images/classfive.png" alt="">
+                </a>
+            </div>
+            <div class="col-md-5">
+                <h3>Intro To Linux and Web 2014</h3>
+                <h4>Class Six</h4>
+                <p>Slide deck available. Video to be posted...</p>
+                <a class="btn btn-primary" href="/classfive">View Content </a>
+            </div>
+        </div>
+        <!-- /.row -->
+
+
 % include('footer.tpl')
