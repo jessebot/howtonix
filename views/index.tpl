@@ -58,7 +58,7 @@
             <div class="col-md-5">
                 <h3>Intro To Linux and Web 2014</h3>
                 <h4>Class Three</h4>
-                <p>Slide deck available. Video to be posted...</p>
+                <p>Learn what grep is! We also cover wildcards, redirection operators, and conditional/boolean operators. Slide deck available. Video to be posted...</p>
                 <a class="btn btn-primary" href="/classthree">View Content</a>
             </div>
         </div>
@@ -77,7 +77,7 @@
             <div class="col-md-5">
                 <h3>Intro To Linux and Web 2014</h3>
                 <h4>Class Four</h4>
-                <p>Slide deck available. Video to be posted...</p>
+                <p>Learn how to get all the basic information you need about your Linux machine. We'll cover some networking basics, how to check the specs, and even see what's going on and who else is on the box with you! Slide deck available. Video to be posted...</p>
                 <a class="btn btn-primary" href="/classfour">View Content </a>
             </div>
         </div>
