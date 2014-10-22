@@ -100,7 +100,6 @@
             </div>
         </div>
         <!-- /.row -->
-    <hr> 
    <hr>
 
         <!-- Content Five -->
@@ -120,5 +119,6 @@
         </div>
         <!-- /.row -->
 
+    <hr> 
 
 % include('footer.tpl')
