@@ -95,7 +95,7 @@
             <div class="col-md-5">
                 <h3>Intro To Linux and Web 2014</h3>
                 <h4>Class Five</h4>
-                <p>Slide deck available. Video to be posted...</p>
+                <p>In class five, we went over the very basics of VIM and BASH scripting. Slide deck available. Video to be posted...</p>
                 <a class="btn btn-primary" href="/classfive">View Content </a>
             </div>
         </div>
@@ -108,13 +108,13 @@
 
             <div class="col-md-7">
                 <a href="/classsix">
-                    <img class="img-responsive" src="/images/classfive.png" alt="">
+                    <img class="img-responsive" src="/images/classsix.png" alt="">
                 </a>
             </div>
             <div class="col-md-5">
                 <h3>Intro To Linux and Web 2014</h3>
                 <h4>Class Six</h4>
-                <p>Slide deck available. Video to be posted...</p>
+                <p>In class six, we went over more advanced use of VIM as well as the beginnings of the if/then statements. Slide deck available. Video to be posted...</p>
                 <a class="btn btn-primary" href="/classsix">View Content </a>
             </div>
         </div>
