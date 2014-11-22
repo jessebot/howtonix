@@ -44,6 +44,14 @@ def classfive():
 def classsix():
     return template('classsix')
 
+@route('/classseven')
+def classseven():
+    return template('classseven')
+
+@route('/classeight')
+def classeight():
+    return template('classeight')
+
 @route('/resources')
 def resources():
     return template('resources')

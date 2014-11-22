@@ -102,7 +102,7 @@
         <!-- /.row -->
    <hr>
 
-        <!-- Content Five -->
+        <!-- Content Six -->
         <div class="row">
 
             <div class="col-md-7">
@@ -115,6 +115,44 @@
                 <h4>Class Six</h4>
                 <p>In class six, we went over more advanced use of VIM as well as the beginnings of the if/then statements. Slide deck available. Video to be posted...</p>
                 <a class="btn btn-primary" href="/classsix">View Content </a>
+            </div>
+        </div>
+        <!-- /.row -->
+
+    <hr> 
+
+        <!-- Content Seven -->
+        <div class="row">
+
+            <div class="col-md-7">
+                <a href="/classseven">
+                    <img class="img-responsive" src="/images/classseven.png" alt="">
+                </a>
+            </div>
+            <div class="col-md-5">
+                <h3>Intro To Linux and Web 2014</h3>
+                <h4>Class Seven</h4>
+                <p>In class seven, we went over if then statements and comparison operators in BASH Slide deck available. Video to be posted...</p>
+                <a class="btn btn-primary" href="/classseven">View Content </a>
+            </div>
+        </div>
+        <!-- /.row -->
+
+    <hr> 
+
+        <!-- Content Eight -->
+        <div class="row">
+
+            <div class="col-md-7">
+                <a href="/classeight">
+                    <img class="img-responsive" src="/images/classeight.png" alt="">
+                </a>
+            </div>
+            <div class="col-md-5">
+                <h3>Intro To Linux and Web 2014</h3>
+                <h4>Class Eight</h4>
+                <p>In class eight, we'll go over while and for loops! we Slide deck to be posted. Video to be posted...</p>
+                <a class="btn btn-primary" href="/classeight">View Content </a>
             </div>
         </div>
         <!-- /.row -->
