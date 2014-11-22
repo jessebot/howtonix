@@ -1,7 +1,7 @@
 % include('header.tpl')
 
           <h2>Video not yet avialable-Class<span class="text-muted"> Six.</span></h2>
-          <p class="lead">Description coming soon.</p>
+          <p class="lead">In Class six, we went over more advanced use of VIM as well as the beginnings of the if/then statement.</p>
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">

@@ -13,9 +13,7 @@
     <div id="collapseTwo" class="panel-collapse collapse">
       <div class="panel-body">
   <div class="well well-sm"
- <br /><h2><p><a href="https://docs.google.com/presentation/d/1zORFKZxo92syJ-Pawz5VkGP7aVWllbKHyehaTHKSrMQ/edit?usp=sharing" class="btn btn-primary btn-lg" role="button">View Slide Deck</a></p></h2>
-<br />
-<a href="http://www.viemu.com/vi-vim-cheat-sheet.gif">VIM Cheat Sheet</a>
+ <br /><h2><p><a href="" class="btn btn-primary btn-lg" role="button">View Slide Deck</a></p></h2>
 <br />
 Home work coming soon.
   </div>

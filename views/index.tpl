@@ -132,7 +132,7 @@
             <div class="col-md-5">
                 <h3>Intro To Linux and Web 2014</h3>
                 <h4>Class Seven</h4>
-                <p>In class seven, we went over if then statements and comparison operators in BASH Slide deck available. Video to be posted...</p>
+                <p>In class seven, we went over if then statements and comparison operators in BASH. Slide deck available. Video to be posted...</p>
                 <a class="btn btn-primary" href="/classseven">View Content </a>
             </div>
         </div>
@@ -145,7 +145,7 @@
 
             <div class="col-md-7">
                 <a href="/classeight">
-                    <img class="img-responsive" src="/images/classeight.png" alt="">
+                    <!--<img class="img-responsive" src="/images/classeight.png" alt="">-->
                 </a>
             </div>
             <div class="col-md-5">

@@ -1,7 +1,7 @@
 % include('header.tpl')
 
           <h2>Video not yet avialable-Class<span class="text-muted"> Seven.</span></h2>
-          <p class="lead">Description coming soon.</p>
+          <p class="lead">In Class Seve, we went over if then statments and comparison operators in BASH.</p>
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">
