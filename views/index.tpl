@@ -145,7 +145,7 @@
 
             <div class="col-md-7">
                 <a href="/classeight">
-                    <!--<img class="img-responsive" src="/images/classeight.png" alt="">-->
+                    <img class="img-responsive" src="/images/classeight.png" alt="">
                 </a>
             </div>
             <div class="col-md-5">
