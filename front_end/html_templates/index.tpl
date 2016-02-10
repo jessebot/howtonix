@@ -10,7 +10,6 @@
                 </h1>
             </div>
         </div>
-        <!-- /.row -->
        <hr>
         <!-- Content One -->
         <div class="row">
@@ -27,9 +26,9 @@
                    <br />Get the slide deck: <a href="https://goo.gl/pxanEA">Here</a> Homework: Checkout the first module of <a href='http://linuxsurvival.com'>Linux Survival</a></p>
             </div>
         </div>
-        <!-- /.row -->
-
         <hr>
+        <!-- Content One -->
+
 
         <!-- Content Two -->
         <div class="row">
@@ -46,9 +45,9 @@
                    <br />Get the slide deck: <a href="https://goo.gl/lXRqS1">Here</a> Homework: Checkout the second module of <a href='http://linuxsurvival.com'>Linux Survival</a></p>
             </div>
         </div>
-        <!-- /.row -->
-
         <hr>
+        <!-- Content Two -->
+
 
         <!-- Content Three
         <div class="row">
@@ -64,7 +63,7 @@
                    <br />Get the slide deck: <a href="">Here</a> Homework: Checkout the first module of <a href='http://linuxsurvival.com'>Linux Survival</a></p>
             </div>
         </div>
-         /.row -->
+        <hr> 
+         Content Three -->
 
-    <hr> 
 % include('footer.tpl')
