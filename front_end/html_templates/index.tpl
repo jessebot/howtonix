@@ -20,8 +20,8 @@
                     </div>
             </div>
             <div class="col-md-5">
-                <h3>Intro To Linux and Web
-                <p><small>Episode One<small></h3>
+                <h3>Intro To Linux and Web</h3>
+                <h4><small>Episode One</small></h4>
                 <p />In class one, we go over my expectations of a student committed to learning as well as a brief history of Linux and why I think it's worth learning.<br />
                 <ul>
                    <li>Get the <a href="https://goo.gl/pxanEA">slide deck</a>!</li>
