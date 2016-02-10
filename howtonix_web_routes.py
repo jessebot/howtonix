@@ -16,7 +16,7 @@ bottle.TEMPLATE_PATH.insert(0,
 
 def get_global_variable(global_variable):
     """ gets global variable given string variable name"""
-    with open('./config/config.yaml', 'r') as f:
+    with open('./.config/config.yaml', 'r') as f:
         doc = yaml.load(f)
     txt = doc["Globals"][global_variable]
     return txt
