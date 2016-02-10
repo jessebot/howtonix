@@ -2,6 +2,20 @@
 <div class="page-header">
   <h1>Getting started <small>(more to come soon)</small></h1>
   <hr>
+  <h2>Useful Resources for Practice and Suplimentary Reading</h2>
+    <dl class="dl-horizontal">
+      <dt><a href='http://linuxsurvival.com'>Linux Survival</a></dt>
+        <dd>An interactive tutorial. Web based.<small>(Note: this only works on Windows)</small></dd>
+      <dt><a href='https://www.codecademy.com/learn/learn-the-command-line'>Code Academy's Learn the Command Line</a></dt>
+        <dd>An interactive tutorial. Web based.</dd>
+      <dt><a href='http://explainshell.com/'>Explain Shell</a></dt>
+        <dd>Allows you to paste that command you found on the Internet and explains it to you!</dd>
+      <dt><a href='http://stackoverflow.com/'>Stack Overflow</a></dt>
+        <dd>An question/answer site/forums for anything technical. Stack Exchange is similar. Anything computer related can popup here, but Linux/Coding questions are particularly prevelant.</dd>
+      <dt><a href='http://www.tldp.org/LDP/gs/node5.html'>The Linux Documentation Project</a></dt>
+        <dd>Tons of documentation in long form here. People from all over the world trying to help the world understand Linux better.</dd>
+    </dl>
+  <hr>
   <h2>Connecting to an existing Linux machine <small>...via SSH<p><i><b>NOTE</b>: Unix/Linux will <i>not</i> show your password at all as you type it.</i></small></h2>
     <h3><font color="375a7f">Windows</font></h3>
       <h4>PuTTY</h4>
