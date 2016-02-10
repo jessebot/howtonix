@@ -1,7 +1,18 @@
 # Web routes for howtonix.info by JesseBot@Linux.com
-from bottle import route, response, request, redirect, Bottle, run,
+import bottle
+from bottle import route, response, request, redirect, Bottle, run
 from bottle import template, static_file
 import logging
+import yaml
+import sys
+
+
+def get_global_variable(global_variable):
+    """ gets global variable given string variable name"""
+    with open('./.config/config.yaml', 'r') as f:
+        doc = yaml.load(f)
+    txt = doc["Globals"][global_variable]
+    return txt
 
 
 # Grab site specific information
@@ -12,14 +23,6 @@ logging.info("How To Nix: logging config loaded")
 # full path to HTML templates
 bottle.TEMPLATE_PATH.insert(0,
                             '{0}/front_end/html_templates/'.format(WEB_ROOT))
-
-
-def get_global_variable(global_variable):
-    """ gets global variable given string variable name"""
-    with open('./.config/config.yaml', 'r') as f:
-        doc = yaml.load(f)
-    txt = doc["Globals"][global_variable]
-    return txt
 
 
 # "Web Root" or "Document Root" of howtonix
