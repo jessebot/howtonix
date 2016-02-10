@@ -20,11 +20,13 @@
                     </div>
             </div>
             <div class="col-md-5">
-                <h3>Intro To Linux and Web</h3>
-                <h4>Episode One</h4>
-                <p />In class one, we go over my expectations of a student committed to learning as well as a brief history of Linux and why I think it's worth learning.
-                   <br />Get the <a href="https://goo.gl/pxanEA">slide deck</a>!
-                   <br />Homework: Checkout the first lesson of <a href='https://www.codecademy.com/learn/learn-the-command-line'>Code Academy's Learn CLI</a></p>
+                <h3>Intro To Linux and Web
+                <p>Episode One</h3>
+                <p />In class one, we go over my expectations of a student committed to learning as well as a brief history of Linux and why I think it's worth learning.<br />
+                <ul>
+                   <li><br />Get the <a href="https://goo.gl/pxanEA">slide deck</a>!</li>
+                   <li><br /><b>Homework</b>: Checkout the first unit of <a href='https://www.codecademy.com/learn/learn-the-command-line'>Code Academy</a></li>
+                <ul>
             </div>
         </div>
         <hr>
@@ -42,9 +44,11 @@
             <div class="col-md-5">
                 <h3>Intro To Linux and Web</h3>
                 <h4>Episode Two</h4>
-                <p />In class two, we go over an introduction to the file system and command line. This is currently being remade though.
-                   <br />Get the <a href="https://goo.gl/lXRqS1">slide deck</a>!
-                   <br />Homework: Checkout the second lesson of <a href='https://www.codecademy.com/learn/learn-the-command-line'>Code Academy's Learn CLI</a></p>
+                <p />In class two, we go over an introduction to the file system and command line. This is currently being remade though.<br />
+                <ul>
+                   <li>Get the <a href="https://goo.gl/lXRqS1">slide deck</a>!</li>
+                   <li>Homework: Checkout the unit lesson of <a href='https://www.codecademy.com/learn/learn-the-command-line'>Code Academy</a></li>
+                </ul>
             </div>
         </div>
         <hr>
