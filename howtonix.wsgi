@@ -7,6 +7,6 @@ sys.path.append(os.path.dirname(__file__))
 # ... build or import your bottle application here ...
 # Do NOT use bottle.run() with mod_wsgi
 
-import howtonix
+import howtonix_web_routes
 
 application = bottle.default_app()
