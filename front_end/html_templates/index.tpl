@@ -21,11 +21,11 @@
             </div>
             <div class="col-md-5">
                 <h3>Intro To Linux and Web
-                <p>Episode One</h3>
+                <p><small>Episode One<small></h3>
                 <p />In class one, we go over my expectations of a student committed to learning as well as a brief history of Linux and why I think it's worth learning.<br />
                 <ul>
-                   <li><br />Get the <a href="https://goo.gl/pxanEA">slide deck</a>!</li>
-                   <li><br /><b>Homework</b>: Checkout the first unit of <a href='https://www.codecademy.com/learn/learn-the-command-line'>Code Academy</a></li>
+                   <li>Get the <a href="https://goo.gl/pxanEA">slide deck</a>!</li>
+                   <li>Homework: Unit 1 of <a href='https://www.codecademy.com/learn/learn-the-command-line'>Code Academy</a></li>
                 <ul>
             </div>
         </div>
@@ -47,7 +47,7 @@
                 <p />In class two, we go over an introduction to the file system and command line. This is currently being remade though.<br />
                 <ul>
                    <li>Get the <a href="https://goo.gl/lXRqS1">slide deck</a>!</li>
-                   <li>Homework: Checkout the unit lesson of <a href='https://www.codecademy.com/learn/learn-the-command-line'>Code Academy</a></li>
+                   <li>Homework: Unit 2 of <a href='https://www.codecademy.com/learn/learn-the-command-line'>Code Academy</a></li>
                 </ul>
             </div>
         </div>
