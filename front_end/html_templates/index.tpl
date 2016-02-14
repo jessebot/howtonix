@@ -1,4 +1,4 @@
-% include('header_option.tpl')
+% include('header.tpl')
     <!-- Page Content -->
     <div class="container">
 

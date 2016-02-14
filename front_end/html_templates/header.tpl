@@ -41,7 +41,3 @@
           </div><!--/.nav-collapse -->
         </div><!--/.container-fluid -->
       </div>
-
-    <div class="container">
-
-      <div class="starter-template">
