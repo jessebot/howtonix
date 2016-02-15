@@ -1,4 +1,4 @@
-% include('header_option.tpl')
+% include('header.tpl')
 <div class="page-header">
   <h1>Getting started <small>(more to come soon)</small></h1>
   <hr>
