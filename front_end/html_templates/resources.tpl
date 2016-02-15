@@ -1,8 +1,7 @@
 % include('header.tpl')
 <div class="page-header">
-  <h1>Getting started <small>(more to come soon)</small></h1>
-  <hr>
   <h2>Useful Resources for Practice and Suplimentary Reading</h2>
+    <br />
     <dl class="dl-horizontal">
       <dt><a href='http://linuxsurvival.com'>Linux Survival</a></dt>
         <dd>An interactive tutorial. Web based.<small>(Note: this only works on Windows)</small></dd>

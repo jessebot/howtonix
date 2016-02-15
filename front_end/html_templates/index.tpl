@@ -38,13 +38,13 @@
             <div class="col-md-7">
                     <!-- 16:9 aspect ratio -->
                     <div class="embed-responsive embed-responsive-16by9">
-                    <iframe class="embed-responsive-item" src="https://youtu.be/P6mqhMDKLV0"></iframe>
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/P6mqhMDKLV0?rel=0"></iframe>
                     </div>
             </div>
             <div class="col-md-5">
                 <h3>Intro To Linux and Web
                 <p><small>Episode Two</small></h3>
-                <p />In class two, we go over an introduction to the file system and command line. This is currently being remade though.<br />
+                <p />In class two, we go over an introduction to the top level directories in Linux, a few commands for navigation, and some history with a short tutorial..<br />
                 <ul>
                    <li>Get the <a href="https://goo.gl/lXRqS1">slide deck</a>!</li>
                    <li>Homework: Unit 2 of <a href='https://www.codecademy.com/learn/learn-the-command-line'>Code Academy</a></li>
